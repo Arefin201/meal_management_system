@@ -43,13 +43,13 @@ This design is particularly useful for:
 ## 📸 Preview Screenshots
 
 ### Dashboard
-![Dashboard Preview](./screenshots/Screenshot-2025-05-13-003725.png)  
+![Dashboard Preview](/screenshots/dashboard.png)  
 
 ### Member Management
-![Member Management Preview](./screenshots/Screenshot-2025-05-13-003949.png)
+![Member Management Preview](/screenshots/membermanagement.png)
 
-### Monthly Summary
-![Monthly Summary Preview](./screenshots/Screenshot-2025-05-13-004311.png)
+### Market Summary
+![Monthly Summary Preview](./screenshots/marketcost.png)
 
 
 ## How to Use
